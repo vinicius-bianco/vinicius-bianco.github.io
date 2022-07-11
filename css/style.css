@@ -1,0 +1,102 @@
+*
+{  
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1, h2{
+    font-size: 35pt;
+    font-weight: 900;
+    line-height: 0.9em;
+}
+
+h1{
+    color: #8dbec4;
+}
+
+.butao{
+    background-color: #baf5fd;
+    padding: 5px;
+    border: 1px solid #8dbec4;
+    border-radius: 5px;
+}
+
+.butao:hover{
+    background-color: #8dbec4;
+}
+
+
+.texto{
+    padding: 20px 0px 20px 0px;
+}
+
+.inicio{    
+    padding-top: 35px;
+    color: #7c5251;
+    height: 400px;
+    background-color: white;
+}
+
+
+.inicio2{    
+    padding-top: 35px;
+    color: #7c5251;
+    height: 500px;
+    background-color: white;
+}
+
+
+.portfolio{
+    padding-top: 35px;
+    height: 400px;
+    color: white;
+    background-color: #8dbec4;
+}
+
+.contato{
+    padding-top: 35px;
+    height: 300px;
+    color: #7c5251;
+}
+
+.socialmedia{
+    margin: 10px;
+    border: 1px solid red;
+    width: 50px;
+}
+
+.footer{
+    color: #8dbec4;   
+    padding: 0 0 15px 0;
+}
+
+
+.fa {
+	margin: 40px 10px 20px 10px;
+	padding: 20px;
+	font-size: 40px !important; 
+	width: 80px;
+	text-align: center;
+	text-decoration: none;
+	background: #8DBEC4;
+	color: #FFFFFF;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-behance{
+	margin: 0 !important;
+	background: #ffffff;
+	color:#8DBEC4;
+	width: 240px;
+	padding: 50px;
+	font-size: 50px !important;
+}
+
